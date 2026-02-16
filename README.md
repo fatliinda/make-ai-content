@@ -12,12 +12,3 @@ Google Forms
 Google Sheets
 Google Gemini API
 
-
-
-Create Google Form and link to Google Sheets.
-
-Build Make scenario with the two modules above.
-
-Add Gemini API key.
-
-Submit form to run the automation.
